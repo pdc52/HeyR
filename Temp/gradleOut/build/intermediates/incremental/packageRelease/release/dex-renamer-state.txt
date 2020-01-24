@@ -1,4 +1,4 @@
-#Fri Jan 24 15:29:45 EST 2020
+#Fri Jan 24 16:16:42 EST 2020
 base.0=/Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/build/intermediates/transforms/dex/release/0
 path.0=classes.dex
 renamed.0=classes.dex
