@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/phil.corriveau/HeyR/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml",
+            "map": [
+                {
+                    "source": "/Users/phil.corriveau/.gradle/caches/transforms-2/files-2.1/81bb02923f326b51cddf9171e34300c5/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "212",
+                        "endOffsets": "459"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "212",
+                        "endOffsets": "313"
+                    }
+                },
+                {
+                    "source": "/Users/phil.corriveau/.gradle/caches/transforms-2/files-2.1/b741080999a4fbd9d777da37967de07e/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "318",
+                        "endColumns": "100",
+                        "endOffsets": "414"
+                    }
+                }
+            ]
+        }
+    ]
+}
