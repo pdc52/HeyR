@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "272",
+                        "endColumns": "100",
+                        "endOffsets": "368"
+                    }
+                },
+                {
+                    "source": "/Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "166",
+                        "endOffsets": "267"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:2:1-14:12
+MERGED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:2:1-19:12
+MERGED from [:bosewearable:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/bosewearable.aar/956f3ee76378e6a61e5db383c58bf183/AndroidManifest.xml:2:1-13:12
+MERGED from [:core-1.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/AndroidManifest.xml:17:1-26:12
+MERGED from [:localbroadcastmanager-1.0.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f1f18ee356edaeb95c0b0bcd39e2e4d4/AndroidManifest.xml:17:1-22:12
+MERGED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:17:1-28:12
+MERGED from [:play-services-tasks-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/657423b9277292076198b57c25851908/AndroidManifest.xml:2:1-9:12
+MERGED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:17:1-31:12
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-107
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:108-154
+	android:versionCode
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:155-195
+supports-screens
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:core-1.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/AndroidManifest.xml:24:5-89
+MERGED from [:core-1.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/AndroidManifest.xml:24:5-89
+MERGED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:22:5-26:19
+MERGED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:22:5-26:19
+MERGED from [:play-services-tasks-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/657423b9277292076198b57c25851908/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-tasks-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/657423b9277292076198b57c25851908/AndroidManifest.xml:7:5-20
+MERGED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:25:5-29:19
+	android:appComponentFactory
+		ADDED from [:core-1.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:bosewearable:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/bosewearable.aar/956f3ee76378e6a61e5db383c58bf183/AndroidManifest.xml:11:5-67
+MERGED from [:bosewearable:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/bosewearable.aar/956f3ee76378e6a61e5db383c58bf183/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-97
+	android:required
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:70-94
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-88
+	android:required
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:61-85
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-99
+	android:required
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:72-96
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-108
+	android:required
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:22:81-105
+	android:name
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-80
+uses-sdk
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:7:5-9:41
+MERGED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:7:5-9:41
+MERGED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:7:5-9:41
+MERGED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:7:5-9:41
+MERGED from [:bosewearable:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/bosewearable.aar/956f3ee76378e6a61e5db383c58bf183/AndroidManifest.xml:7:5-9:41
+MERGED from [:bosewearable:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/bosewearable.aar/956f3ee76378e6a61e5db383c58bf183/AndroidManifest.xml:7:5-9:41
+MERGED from [:core-1.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/AndroidManifest.xml:20:5-22:41
+MERGED from [:core-1.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/b7c13df3118890c5cf1b9f9afe953db8/AndroidManifest.xml:20:5-22:41
+MERGED from [:localbroadcastmanager-1.0.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f1f18ee356edaeb95c0b0bcd39e2e4d4/AndroidManifest.xml:20:5-44
+MERGED from [:localbroadcastmanager-1.0.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f1f18ee356edaeb95c0b0bcd39e2e4d4/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-tasks-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/657423b9277292076198b57c25851908/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-tasks-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/657423b9277292076198b57c25851908/AndroidManifest.xml:5:5-44
+MERGED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:21:5-23:61
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:21:5-23:61
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/john.mccormack/BoseSDKDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:11:5-68
+MERGED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:11:5-68
+MERGED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:BoseWearableBridge:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/BoseWearableBridge.aar/244680c14b0e9f0c5c7fd8a7e02004d9/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from [:blecore:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/blecore.aar/8757b9511a4bccf30df9dbca47b546d3/AndroidManifest.xml:16:9-53
+meta-data#com.google.android.gms.version
+ADDED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:play-services-basement-16.0.1:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f9c4d3aa1d87f3f69db7d70f2ee1a178/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-core-utils-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7ef72b2cc335fbcaf7ee7c218efd5f2f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:support-core-ui-26.1.0:] /Users/john.mccormack/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/900507f0bdc786072866daf7043b817c/AndroidManifest.xml:27:13-51
